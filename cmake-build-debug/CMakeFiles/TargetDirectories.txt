@@ -1,0 +1,3 @@
+C:/Users/hifum/Desktop/Myprojects/TodoList-C++/cmake-build-debug/CMakeFiles/TodoList_C__.dir
+C:/Users/hifum/Desktop/Myprojects/TodoList-C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hifum/Desktop/Myprojects/TodoList-C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
